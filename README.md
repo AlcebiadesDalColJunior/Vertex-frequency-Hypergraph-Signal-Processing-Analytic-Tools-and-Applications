@@ -8,4 +8,4 @@ Originally compiled in Spyder using Anaconda3-2023.09-0 software (https://repo.a
 
 Mendeley Data (will appear soon)
 
-Code Ocean capsule (will appear soon)
+Code Ocean capsule (https://codeocean.com/capsule/d9edb45a-ef57-41b4-973f-800605043546/)
