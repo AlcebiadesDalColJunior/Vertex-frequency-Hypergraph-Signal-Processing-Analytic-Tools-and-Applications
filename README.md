@@ -6,6 +6,6 @@ Python implementation related to the paper Vertex-frequency Hypergraph Signal Pr
 
 Originally compiled in Spyder using Anaconda3-2023.09-0 software (https://repo.anaconda.com/archive/)
 
-Mendeley Data (will appear soon)
+Mendeley Data (https://data.mendeley.com/datasets/2zc346s3fy/1)
 
 Code Ocean capsule (https://codeocean.com/capsule/d9edb45a-ef57-41b4-973f-800605043546/)
